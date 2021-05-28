@@ -20,22 +20,19 @@
             android:screenOrientation="portrait" />
 
 
-        <!--android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize"
-            android:excludeFromRecents="true"
-            android:exported="false"-->
-
         <activity
             android:name=".MainActivity"
-
+            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false"
             android:label="@string/screen_resolution_title"
             android:screenOrientation="portrait">
 
             <intent-filter>
                 <action android:name="com.android.settings.action.IA_SETTINGS" />
 
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
+                <!--<action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />-->
             </intent-filter>
 
             <meta-data

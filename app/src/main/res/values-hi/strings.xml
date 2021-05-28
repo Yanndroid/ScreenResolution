@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">आपके द्वारा रिजॉल्यूशन बदलने पर कुछ एप्स बंद हो सकते हैं।</string>
+    <string name="screen_resolution_title">स्क्रीन रिजॉल्यूशन</string>
+    <string name="common_apply">लागू करें</string>
+    <string name="screen_resolution_wqhd_description">बिल्कुल स्पष्ट विजुअल्स, सबसे अधिक बैटरी उपयोग</string>
+    <string name="screen_resolution_fhd_description">बेहतर विजुअल्स, मध्यम बैटरी उपयोग</string>
+    <string name="screen_resolution_hd_description">बेसिक विजुअल्स, सबसे कम बैटरी उपयोग</string>
+</resources>

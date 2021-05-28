@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">ଆପଣ ରିଜୋଲ୍ୟୁସନ୍ ପରିବର୍ତ୍ତନ କରିବା ସମୟରେ କିଛି ଆପ୍ଲିକେସନ୍ ବନ୍ଦ ହୋଇପାରେ।</string>
+    <string name="screen_resolution_title">ସ୍କ୍ରିନ୍ ରିଜୋଲ୍ୟୁସନ୍</string>
+    <string name="common_apply">ପ୍ରୟୋଗ</string>
+    <string name="screen_resolution_wqhd_description">ଧାରୁଆ ଭିଜୁଆଲ୍, ସର୍ବାଧିକ ବ୍ୟାଟେରୀ ବ୍ୟବହାର</string>
+    <string name="screen_resolution_fhd_description">ଉନ୍ନତ ଭିଜୁଆଲ୍, ମଧ୍ୟମ ବ୍ୟାଟେରୀ ବ୍ୟବହାର</string>
+    <string name="screen_resolution_hd_description">ମୌଳିକ ଭିଜୁଆଲ୍, ସର୍ବନିମ୍ନ ବ୍ୟାଟେରୀ ବ୍ୟବହାର</string>
+</resources>

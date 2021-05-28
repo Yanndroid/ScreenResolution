@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Neke se aplikacije mogu zatvoriti kada promijenite razlučivost.</string>
+    <string name="screen_resolution_title">Razlučivost zaslona</string>
+    <string name="common_apply">Primijeni</string>
+    <string name="screen_resolution_wqhd_description">Izoštreni vizuali, maksimalna potrošnja baterije</string>
+    <string name="screen_resolution_fhd_description">Poboljšani vizuali, umjerena potrošnja baterije</string>
+    <string name="screen_resolution_hd_description">Osnovni vizuali, najmanja potrošnja baterije</string>
+</resources>

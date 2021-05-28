@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rounded_corner_size">26dp</dimen>
+    <dimen name="sec_widget_preference_unclickable_margin_top">20.0dip</dimen>
+    <dimen name="sec_widget_body_text_padding_start_end">24.0dip</dimen>
+    <dimen name="sec_widget_img_margin">20.0dip</dimen>
+    <item name="sesl_disabled_color_alpha" type="dimen">0.4</item>
+
+
+</resources>

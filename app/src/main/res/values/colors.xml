@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sesl_white">#fffafafa</color>
+    <color name="sesl_black">#ff252525</color>
+    <color name="sec_display_resolution_help_desc_text_color">#ff252525</color>
+    <color name="divider_color">#8a979797</color>
+    <color name="sec_display_resolution_desc_text_color">#ff7a7a7a</color>
+    <color name="sesl_default_primary_color">#ff0381fe</color>
+    <color name="sesl_default_secondary_color">#ff0072de</color>
+    <color name="sesl_control_normal_color">#cc8f8f8f</color>
+    <color name="sesl_ripple_color">#1a000000</color>
+    <color name="button_ripple_color">#e1e1e1</color>
+    <color name="white">#ffffffff</color>
+    <color name="item_background_color">#ffffffff</color>
+    <color name="background_color">#fff2f2f2</color>
+    <color name="ota_changelog_text_color">@color/sesl_black</color>
+    <color name="contained_button_default_text">#ff252525</color>
+
+
+
+</resources>

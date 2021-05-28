@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Enkelte apper kan bli lukket når du endrer oppløsningen.</string>
+    <string name="screen_resolution_title">Skjermoppløsning</string>
+    <string name="common_apply">Bruk</string>
+    <string name="screen_resolution_wqhd_description">Klareste visuelle effekter, mest batteribruk</string>
+    <string name="screen_resolution_fhd_description">Forbedrede visuelle effekter, moderat batteribruk</string>
+    <string name="screen_resolution_hd_description">Grunnleggende visuelle effekter, lavest batteribruk</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Beberapa aplikasi mungkin ditutup saat Anda mengubah resolusi.</string>
+    <string name="screen_resolution_title">Resolusi layar</string>
+    <string name="common_apply">Terapkan</string>
+    <string name="screen_resolution_wqhd_description">Visual paling tajam, penggunaan baterai tertinggi</string>
+    <string name="screen_resolution_fhd_description">Visual yang lebih baik, penggunaan baterai sedang</string>
+    <string name="screen_resolution_hd_description">Visual dasar, penggunaan baterai terendah</string>
+</resources>

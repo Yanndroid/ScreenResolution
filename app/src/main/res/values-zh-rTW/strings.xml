@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">變更解析度時，部分應用程式可能會關閉。</string>
+    <string name="screen_resolution_title">螢幕解析度</string>
+    <string name="common_apply">套用</string>
+    <string name="screen_resolution_wqhd_description">視覺最清晰、耗電量最大</string>
+    <string name="screen_resolution_fhd_description">增強視覺、中等耗電量</string>
+    <string name="screen_resolution_hd_description">基本視覺、最低耗電量</string>
+</resources>

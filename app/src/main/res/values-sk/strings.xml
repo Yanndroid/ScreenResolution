@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Niektoré aplikácie sa môžu pri zmene rozlíšenia zavrieť.</string>
+    <string name="screen_resolution_title">Rozlíšenie obrazovky</string>
+    <string name="common_apply">Použiť</string>
+    <string name="screen_resolution_wqhd_description">Najostrejšie vizuálne prvky, najvyššia spotreba energie batérie</string>
+    <string name="screen_resolution_fhd_description">Vylepšené vizuálne prvky, stredná spotreba energie batérie</string>
+    <string name="screen_resolution_hd_description">Základné vizuálne prvky, najnižšia spotreba energie batérie</string>
+</resources>

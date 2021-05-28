@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Alguns aplicativos poderão ser fechados quando você alterar a resolução.</string>
+    <string name="screen_resolution_title">Resolução da tela</string>
+    <string name="common_apply">Aplicar</string>
+    <string name="screen_resolution_wqhd_description">Elementos visuais mais nítidos, uso máximo da bateria</string>
+    <string name="screen_resolution_fhd_description">Elementos visuais aprimorados, uso moderado da bateria</string>
+    <string name="screen_resolution_hd_description">Elementos visuais básicos, uso mínimo da bateria</string>
+</resources>

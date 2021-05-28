@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Някои приложения може да се затворят, когато промените разделителната способност.</string>
+    <string name="screen_resolution_title">Разделит. способн. екран</string>
+    <string name="common_apply">Приложи</string>
+    <string name="screen_resolution_wqhd_description">Най-ярка графика, повече използване на батерията</string>
+    <string name="screen_resolution_fhd_description">Подобрена графика, умерено използване на батерията</string>
+    <string name="screen_resolution_hd_description">Базова графика, по-слабо използване на батерията</string>
+</resources>

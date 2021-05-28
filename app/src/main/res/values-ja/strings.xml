@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">解像度を変更すると、一部のアプリが終了する場合があります。</string>
+    <string name="screen_resolution_title">画面の解像度</string>
+    <string name="common_apply">適用</string>
+    <string name="screen_resolution_wqhd_description">最高解像度、大量のバッテリー消費</string>
+    <string name="screen_resolution_fhd_description">高解像度、適度なバッテリー消費</string>
+    <string name="screen_resolution_hd_description">標準解像度、最低限のバッテリー消費</string>
+</resources>

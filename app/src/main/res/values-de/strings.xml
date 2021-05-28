@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Manche Apps werden bei Änderung der Auflösung möglicherweise geschlossen.</string>
+    <string name="screen_resolution_title">Bildschirmauflösung</string>
+    <string name="common_apply">Anwenden</string>
+    <string name="screen_resolution_wqhd_description">Schärfste Optik, höchster Akkuverbrauch</string>
+    <string name="screen_resolution_fhd_description">Verbesserte Optik, mittlerer Akkuverbrauch</string>
+    <string name="screen_resolution_hd_description">Einfache Optik, niedrigster Akkuverbrauch</string>
+</resources>

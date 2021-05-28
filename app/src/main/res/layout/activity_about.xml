@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foreground="@drawable/rounded_corner_bottom">
+
+    <include
+        layout="@layout/toolbar_layout"
+        app:layout_scrollFlags="scroll|enterAlwaysCollapsed" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            android:nestedScrollingEnabled="false">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/app_info_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical">
+
+                    <ScrollView
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:fillViewport="true">
+
+                        <LinearLayout
+                            android:id="@+id/upper_layout"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="top|center_horizontal"
+                            android:orientation="vertical"
+                            android:paddingTop="64.0dip"
+                            android:paddingBottom="24.0dip">
+
+                            <TextView
+                                android:id="@+id/app_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="10.0dip"
+                                android:fontFamily="sans-serif-light"
+                                android:text="@string/screen_resolution_title"
+                                android:textColor="@color/ota_changelog_text_color"
+                                android:textSize="40.0sp" />
+
+                            <TextView
+                                android:id="@+id/version"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="8.0dip"
+                                android:gravity="center"
+                                android:text="@string/developed_by"
+                                android:textColor="@color/sesl_radiobutton_text_color"
+                                android:textSize="16.0sp"
+                                android:textStyle="normal" />
+
+
+                            <LinearLayout
+                                android:id="@+id/lower_layout"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_marginBottom="12.0dip"
+                                android:gravity="bottom|center"
+                                android:orientation="vertical">
+
+                                <com.google.android.material.button.MaterialButton
+                                    android:id="@+id/osl_button"
+                                    android:layout_width="250dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginBottom="24.0dip"
+                                    android:onClick="openGithub"
+                                    android:text="Github" />
+
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </ScrollView>
+
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

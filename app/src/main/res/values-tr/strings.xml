@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">Çözünürlüğü değiştirdiğinizde bazı uygulamalar kapanabilir.</string>
+    <string name="screen_resolution_title">Ekran çözünürlüğü</string>
+    <string name="common_apply">Uygula</string>
+    <string name="screen_resolution_wqhd_description">En net görseller, en yüksek pil kullanımı</string>
+    <string name="screen_resolution_fhd_description">İyileştirilmiş görseller, orta düzey pil kullanımı</string>
+    <string name="screen_resolution_hd_description">Temel görseller, en düşük pil kullanımı</string>
+</resources>

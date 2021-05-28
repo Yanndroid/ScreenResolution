@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="screen_resolution_desc_summary">해상도를 변경하면 일부 앱이 종료될 수 있습니다.</string>
+    <string name="screen_resolution_title">화면 해상도</string>
+    <string name="common_apply">적용</string>
+    <string name="screen_resolution_wqhd_description">선명한 비주얼, 배터리 사용량 가장 많음</string>
+    <string name="screen_resolution_fhd_description">향상된 비주얼, 배터리 사용량 중간</string>
+    <string name="screen_resolution_hd_description">기본 비주얼, 배터리 사용량 제일 적음</string>
+</resources>

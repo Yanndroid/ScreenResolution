@@ -1,4 +1,4 @@
 # ScreenResolution
-Screen Resolution App for A50 Roms
+Screen Resolution by Yanndroid and TenSeventy7
 
 APK download: https://github.com/Yanndroid/ScreenResolution/raw/master/app/release/app-release.apk

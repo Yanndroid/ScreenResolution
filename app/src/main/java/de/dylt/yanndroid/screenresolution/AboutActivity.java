@@ -86,7 +86,7 @@ public class AboutActivity extends AppCompatActivity {
     }
 
     public void openGithub(View v) {
-        //github todo
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/Yanndroid/ScreenResolution")));
     }
 
     private void callAppInfo() {
